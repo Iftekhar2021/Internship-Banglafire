@@ -1,5 +1,4 @@
 #Day 3: 30 days of python programming
-"""
 age = 20
 height = 175.00
 complex_var = 1 + 1j
@@ -67,7 +66,7 @@ else:
 
 #Problem 18
 print((7 // 3) == (int(2.7)))
-"""
+
 #Problem 19
 print(type('10') == type(10))
 
