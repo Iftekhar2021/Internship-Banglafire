@@ -49,7 +49,7 @@ radius = 30
 area_of_circle = 3.1416 * (radius ** 2)
 circum_of_circle = 2 * 3.1416 * radius
 radius = input('Enter radius: ')
-#area_of_circle = 2 * 3.1416 * (radius ** 2)
+area_of_circle = int(2 * 3.1416 * (radius ** 2))
 
 print(area_of_circle)
 
